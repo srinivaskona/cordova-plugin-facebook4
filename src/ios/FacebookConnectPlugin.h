@@ -6,6 +6,7 @@
 //  Updated by Ally Ogilvie on 29/Jan/2014.
 //  Updated by Jeduan Cornejo on 3/Jul/2015
 //  Updated by David Dal Busco on 21/Apr/2018 - Facebook doesn't support App Invites anymore
+//  Updated by Srinivas kona on 3/Jul/2020
 //  Copyright 2011 Nitobi. All rights reserved.
 //
 

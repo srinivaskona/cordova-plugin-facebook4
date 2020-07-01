@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-facebook4",
-  "version": "6.4.0",
+  "name": "@leonardo.srinu/cordova-plugin-facebook4",
+  "version": "6.5.0",
   "description": "Cordova Facebook SDK 4 Plugin",
   "cordova": {
     "id": "cordova-plugin-facebook4",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeduan/cordova-plugin-facebook4"
+    "url": "https://github.com/srinivaskona/cordova-plugin-facebook4.git"
   },
   "keywords": [
     "cordova",
@@ -25,5 +25,18 @@
     "social",
     "sharing"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/srinivaskona/cordova-plugin-facebook4/issues"
+  },
+  "homepage": "https://github.com/srinivaskona/cordova-plugin-facebook4#readme",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srinivas Kona"
 }
